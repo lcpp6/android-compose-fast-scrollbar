@@ -9,4 +9,6 @@ Android compose draggable and fast scrollbar
 注意：只适合 Lazy 相关组件（LazyColumn、LazyGrid、LazyStaggeredGrid）
 
 
-![My GIF](https://github.com/lcpp6/android-compose-fast-scrollbar/tree/main/scrollbar/_readme/ScrollbarVideo.gif)
+<img src="scrollbar/_readme/ScrollbarVideo.gif" width="320" alt="Jetnews sample demo">
+
+
