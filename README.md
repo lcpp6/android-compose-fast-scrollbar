@@ -9,6 +9,9 @@ Android compose draggable and fast scrollbar
 注意：只适合 Lazy 相关组件（LazyColumn、LazyGrid、LazyStaggeredGrid）
 
 使用方式: 目前提供的是源码，直接下载复制使用。
+使用注意：里面有些代码不正确：
+orientation = Orientation.Vertical, 表示方向，对于VerticalGrid，应该改成这个，里面的使用示例填错了。如果使用请自行修改。
+此外，有一个api不存在直接删掉即可。
 
 
 <img src="scrollbar/_readme/ScrollbarVideo.gif" width="320" alt="Jetnews sample demo">
